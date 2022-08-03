@@ -1,0 +1,19 @@
+variavel numero: CD0622-I
+variavel mesAtual: xx
+variavel anoAtual: xxxx
+variavel diaRecebimento: dia/{{mesAtual}}/{{anoAtual}}
+variavel mesRecebimento: dia/mes/ano
+variavel anoRecebimento: dia/mes/ano
+variavel dataProcessamentoInicio: dia/mes/ano
+variavel dataProcessamentoFim: dia/mes/ano
+variavel IdentificacaoCliente:
+variavel IdentificacaoSenai:
+variavel dataRecepcao: dia/mes/ano
+variavel data Processamento: {{dataProcessamentoInicio}}
+variavel amostra: {{IdentificacaoSenai}}
+variavel decimal massa: 19,14
+variavel decimal cv: 1,7
+variavel concentracao: {{massa}}
+variavel textoResumo:
+variavel textoAnalise:
+
